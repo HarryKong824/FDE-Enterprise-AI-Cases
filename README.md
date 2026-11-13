@@ -1,6 +1,8 @@
-# 企业 AI 落地案例库
+# FDE 企业 AI 落地案例库（FDE Enterprise AI Cases）
 
-[简体中文](#企业-ai-落地案例库) · [English](#enterprise-ai-case-library)
+> 本仓库整理自开源项目 [guminghao-avi/FDE-case-library](https://github.com/guminghao-avi/FDE-case-library)（MIT License），原始版权归原作者及贡献者所有。
+
+[简体中文](#fde-企业-ai-落地案例库fde-enterprise-ai-cases) · [English](#enterprise-ai-case-library)
 
 一个面向公开学习和检索的企业 AI 部署案例库。项目不只收集“用了什么模型”，而是尽量还原：
 
